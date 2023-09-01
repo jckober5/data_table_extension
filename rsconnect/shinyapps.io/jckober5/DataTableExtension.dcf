@@ -1,0 +1,12 @@
+name: DataTableExtension
+title: DataTableExtension
+username: jckober5
+account: jckober5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9743395
+bundleId: 7635797
+url: https://jckober5.shinyapps.io/DataTableExtension/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
